@@ -1,2 +1,2 @@
-# AV_LHL_final_project
-Final Project LHL - Traffic Signal Classification
+# FINAL PROJECT LHL
+Traffic Signal Classification
